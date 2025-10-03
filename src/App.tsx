@@ -7,8 +7,8 @@ import MaxNum from "./Components/MaxNum";
 import Multiple from "./Components/Multiple";
 import Grade from "./Components/Grade";
 import CheckVowel from "./Components/CheckVowel";
-import CheckAlphabet from "./CheckAlphabet";
-import SumOfNatNo from "./SumOfNatNo";
+import CheckAlphabet from "./Components/CheckAlphabet";
+import SumOfNatNo from "./Components/SumOfNatNo";
 
 function App() {
   return (
